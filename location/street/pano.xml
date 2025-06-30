@@ -1,0 +1,1143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20995" start="node48" appversion="7.1.9" hassounds="0">
+  <panorama id="node21">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="243.6">
+      <start fov="100" pan="-40.9069" tilt="-5.84006" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="За усадьбой" datetime="03.04.2025 15:53" info="" tags="" altitude="197.89" heading="243.6" latitude="55.002744" author="" copyright="" nodeid="node21" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.309328" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Вход в усадьбу" url="{node48}" pan="-55.83" skinid="ht_node" target="" distance="17.6877" id="to_museum" tilt="-6.51" description=""/>
+      <hotspot title="" url="images/welcome_name.jpg" pan="-20.86" id="Point01" skinid="ht_image" tilt="5.86" description="" target=""/>
+      <hotspot title="" url="images/welcome_rules.jpg" pan="-45.76" id="Point02" skinid="ht_image" tilt="3.02" description="" target=""/>
+      <hotspot title="" url="images/welcome_work_mode.jpg" pan="-53.64" id="Point03" skinid="ht_image" tilt="3.06" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node48">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node48/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="254.7">
+      <start fov="100" pan="10.6933" tilt="-1.80029" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Вход в усадьбу" datetime="03.04.2025 11:54" info="" tags="" altitude="188.55" heading="254.7" latitude="55.002617" author="" copyright="" nodeid="node48" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.309161" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Выход из усадьбы" url="{node21}" pan="-220.88" skinid="ht_node" target="" distance="17.6877" id="to_exit" tilt="-1.56" description=""/>
+      <hotspot title="Господский дом. Лиственница" url="{node49}" pan="-298.92" skinid="ht_node" target="" distance="1.02548" id="to_larch" tilt="-3.49" description=""/>
+      <hotspot title="Господский дом. Вход" url="{node17}" pan="-28.43" skinid="ht_node" target="" distance="7.10189" id="to_house" tilt="-4.35" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node49">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node49/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="119.2">
+      <start fov="100" pan="-70.6159" tilt="-4.93585" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Лиственница" datetime="03.04.2025 11:52" info="" tags="" altitude="186.92" heading="119.2" latitude="55.002625" author="" copyright="" nodeid="node49" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.309169" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Господский дом. Вход в усадьбу" url="{node48}" pan="-200.65" skinid="ht_node" target="" distance="1.02548" id="to_entry" tilt="-5.57" description=""/>
+      <hotspot title="Господский дом. Памятник А. С. Пушкину" url="{node50}" pan="-20.03" skinid="ht_node" target="" distance="17.4956" id="to_monument" tilt="-3.81" description=""/>
+      <hotspot title="" url="images/larch.jpg" pan="-102.45" id="Point01" skinid="ht_image" tilt="-4.59" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node50">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node50/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="64.6">
+      <start fov="100" pan="-137.348" tilt="-4.14935" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Памятник Пушкину" datetime="03.04.2025 11:50" info="" tags="" altitude="190.82" heading="64.6" latitude="55.002472" author="" copyright="" nodeid="node50" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.309233" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Господский дом. Лиственница" url="{node49}" pan="-270.68" skinid="ht_node" target="" distance="17.4956" id="to_larch" tilt="-4.54" description=""/>
+      <hotspot title="Господский дом. Со стороны парка" url="{node13}" pan="-173.24" skinid="ht_node" target="" distance="37.5382" id="to_housePark" tilt="-3.94" description=""/>
+      <hotspot title="" url="images/monument.jpg" pan="-104.69" id="Point01" skinid="ht_image" tilt="4.54" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="27.2">
+      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Со стороны парка" datetime="03.04.2025 12:11" info="" tags="" altitude="192.69" heading="27.2" latitude="55.002339" author="" copyright="" nodeid="node13" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.308692" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Господский дом. Памятник Пушкину" url="{node50}" pan="-42.15" skinid="ht_node" target="" distance="37.5382" id="to_monument" tilt="0.93" description=""/>
+      <hotspot title="Господский дом. Между домом и конюшней" url="{node1}" pan="-219.61" skinid="ht_node" target="" distance="39.5405" id="to_angleHouse" tilt="-6.55" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="10.5">
+      <start fov="100" pan="101.923" tilt="-8.71579" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Между конюшней и домом" datetime="03.04.2025 14:56" info="" tags="" altitude="196.26" heading="10.5" latitude="55.002206" author="" copyright="" nodeid="node1" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.308117" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Господский дом. Со стороны парка" url="{node13}" pan="-52.03" skinid="ht_node" target="" distance="39.5405" id="to_housePark" tilt="-2.08" description=""/>
+      <hotspot title="Господский дом. У ели" url="{node27}" pan="-315.98" skinid="ht_node" target="" distance="56.4285" id="to_tree" tilt="-4.53" description=""/>
+      <hotspot title="Вход к музею сказок" url="{node33}" pan="-157.59" skinid="ht_node" target="" distance="17.7718" id="to_timeWel" tilt="-4.68" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node27">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="310">
+      <start fov="100" pan="-12.9511" tilt="-2.92539" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="У ели" datetime="03.04.2025 12:06" info="" tags="" altitude="193.15" heading="310" latitude="55.002678" author="" copyright="" nodeid="node27" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.308442" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Господский дом. Между домом и конюшней" url="{node1}" pan="-237.44" skinid="ht_node" target="" distance="56.4285" id="to_angleHouse" tilt="-5.43" description=""/>
+      <hotspot title="У господской кухни" url="{node43}" pan="-89.01" skinid="ht_node" target="" distance="14.9205" id="to_kitchenWel" tilt="-4.01" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node43">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="197.7">
+      <start fov="100" pan="-84.9559" tilt="-8.19532" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="У господской кухни" datetime="03.04.2025 12:01" info="" tags="" altitude="207.71" heading="197.7" latitude="55.002778" author="" copyright="" nodeid="node43" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.308286" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="У мостика" url="{node35}" pan="-224.99" skinid="ht_node" target="" distance="5.80622" id="to_bridgeWel" tilt="-4.63" description=""/>
+      <hotspot title="Госопдский дом. У ели" url="{node27}" pan="-333.6" skinid="ht_node" target="" distance="14.9205" id="to_tree" tilt="-4.07" description=""/>
+      <hotspot title="Господская кухня" url="{node5}" pan="-105.7" skinid="ht_node" target="" distance="10.267" id="to_kitchen" tilt="-8.11" description=""/>
+      <hotspot title="Развилка. У господской кухни" url="{node40}" pan="-45.19" skinid="ht_node" target="" distance="1.6382" id="to_kitcheng" tilt="-4.06" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node35">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="36.5">
+      <start fov="100" pan="84.8442" tilt="1.22532" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="У мостика" datetime="03.04.2025 12:00" info="" tags="" altitude="204.10" heading="36.5" latitude="55.002767" author="" copyright="" nodeid="node35" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.308375" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Мостик" url="{node34}" pan="-302.33" skinid="ht_node" target="" distance="15.7415" id="to_bridge" tilt="-3.87" description=""/>
+      <hotspot title="Вход в господский дом" url="{node17}" pan="-35.78" skinid="ht_node" target="" distance="53.4472" id="Point01" tilt="-1.64" description=""/>
+      <hotspot title="У господской кухни" url="{node43}" pan="-195.5" skinid="ht_node" target="" distance="5.80622" id="Point02" tilt="-4.66" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="98.3">
+      <start fov="100" pan="-35.1233" tilt="-1.2341" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Вход в дом" datetime="03.04.2025 11:57" info="" tags="" altitude="196.00" heading="98.3" latitude="55.002556" author="" copyright="" nodeid="node17" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.309128" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="У мостика" url="{node35}" pan="-124.79" skinid="ht_node" target="" distance="53.4472" id="to_bridgeWel" tilt="-6.44" description=""/>
+      <hotspot title="Господский дом. Вход в усадьбу" url="{node48}" pan="-306.26" skinid="ht_node" target="" distance="7.10189" id="to_entry" tilt="-2.29" description=""/>
+      <hotspot title="Господский дом" url="" pan="-34.22" id="to_house" skinid="ht_node" tilt="13.31" description="" target=""/>
+      <hotspot title="" url="images/house_descr.jpg" pan="-59.26" id="Point01" skinid="ht_image" tilt="-0.31" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="335.1">
+      <start fov="100" pan="-60.2264" tilt="-2.26647" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Господская кухня" datetime="03.04.2025 15:41" info="" tags="" altitude="195.99" heading="335.1" latitude="55.002722" author="" copyright="" nodeid="node5" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.308158" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="У господской кухни" url="{node43}" pan="-158.06" skinid="ht_node" target="" distance="10.267" id="to_kitchenWel" tilt="-2.22" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node33">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0.1">
+      <start fov="100" pan="37.9166" tilt="-3.03008" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Вход к музею сказок" datetime="03.04.2025 14:55" info="" tags="" altitude="194.24" heading="0.1" latitude="55.002364" author="" copyright="" nodeid="node33" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.308075" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Временные выставки" url="{node46}" pan="-171.62" skinid="ht_node" target="" distance="25.9367" id="to_time" tilt="2.85" description=""/>
+      <hotspot title="Вход в каретник" url="{node18}" pan="-291.24" skinid="ht_node" target="" distance="7.87119" id="to_coachHouse" tilt="-4.44" description=""/>
+      <hotspot title="Господский дом. Между домом и конюшней" url="{node1}" pan="-358.13" skinid="ht_node" target="" distance="17.7718" id="to_angleHouse" tilt="-3.88" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="270">
+      <start fov="100" pan="78.8293" tilt="-0.96585" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Вход в каретник" datetime="03.04.2025 14:57" info="" tags="" altitude="194.14" heading="270" latitude="55.002325" author="" copyright="" nodeid="node18" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.307972" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Вход к музею сказок" url="{node33}" pan="-233.98" skinid="ht_node" target="" distance="7.87119" id="to_tales" tilt="-3.2" description=""/>
+      <hotspot title="Вход в конюшню" url="{node19}" pan="-353.33" skinid="ht_node" target="" distance="21.1099" id="to_stables" tilt="-8.21" description=""/>
+      <hotspot title="Каретник" url="" pan="-285.29" id="to_coachHouse" skinid="ht_node" tilt="7.26" description="" target=""/>
+      <hotspot title="" url="images/stable_lable.jpg" pan="-326.48" id="Point01" skinid="ht_image" tilt="-6.85" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="347.7">
+      <start fov="100" pan="-176.25" tilt="-2.21142" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Вход в конюшню" datetime="03.04.2025 14:58" info="" tags="" altitude="193.32" heading="347.7" latitude="55.002289" author="" copyright="" nodeid="node19" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.307647" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Вход в каретник" url="{node18}" pan="-69.42" skinid="ht_node" target="" distance="21.1099" id="to_couchHouse" tilt="-7.71" description=""/>
+      <hotspot title="Конюшня" url="" pan="-174.22" id="to_stablesWel" skinid="ht_node" tilt="1.98" description="" target=""/>
+      <hotspot title="У амбара" url="{node20}" pan="-278.77" skinid="ht_node" target="" distance="109.374" id="to_barn" tilt="-7.04" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="13.1">
+      <start fov="100" pan="18.2916" tilt="-8.49669" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="У амбара" datetime="03.04.2025 14:59" info="" tags="" altitude="194.58" heading="13.1" latitude="55.003189" author="" copyright="" nodeid="node20" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.308339" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Вход в конюшню" url="{node19}" pan="-63.53" skinid="ht_node" target="" distance="109.374" id="to_stables" tilt="-3.69" description=""/>
+      <hotspot title="Развилка - конюшня и нижний парк" url="{node42}" pan="-299.67" skinid="ht_node" target="" distance="106.568" id="to_barnBathhouse" tilt="-5.04" description=""/>
+      <hotspot title="Людская" url="{node3}" pan="-223.79" skinid="ht_node" target="" distance="57.5481" id="to_human" tilt="-4.45" description=""/>
+      <hotspot title="" url="images/stable_descr.jpg" pan="-138.08" id="Point01" skinid="ht_image" tilt="-0.72" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="16.1">
+      <start fov="100" pan="-15.1972" tilt="-2.54319" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Людская" datetime="03.04.2025 15:01" info="" tags="" altitude="197.04" heading="16.1" latitude="55.002892" author="" copyright="" nodeid="node3" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.307600" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="У амбара" url="{node20}" pan="-47.48" skinid="ht_node" target="" distance="57.5481" id="to_barn" tilt="-2.6" description=""/>
+      <hotspot title="Между людской и нижним парком" url="{node4}" pan="-317.35" skinid="ht_node" target="" distance="64.2412" id="to_humanPark" tilt="-8.23" description=""/>
+      <hotspot title="" url="images/human_lable.jpg" pan="-291.4" id="Point01" skinid="ht_image" tilt="-8.36" description="" target=""/>
+      <hotspot title="" url="images/human_descr.jpg" pan="-295.97" id="Point02" skinid="ht_image" tilt="-3.69" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="281.6">
+      <start fov="100" pan="176.554" tilt="-3.3379" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Дорога в нижний парк" datetime="03.04.2025 15:02" info="" tags="" altitude="194.03" heading="281.6" latitude="55.002344" author="" copyright="" nodeid="node4" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.307281" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Людская" url="{node3}" pan="-278.12" skinid="ht_node" target="" distance="64.2412" id="to_human" tilt="-3.88" description=""/>
+      <hotspot title="Развилка - коюшня и людская" url="{node42}" pan="-167.07" skinid="ht_node" target="" distance="11.7929" id="to_barnBathhouse" tilt="-3.67" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node42">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node42/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="242.7">
+      <start fov="100" pan="-108.536" tilt="-3.28524" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Развилка" datetime="03.04.2025 15:04" info="" tags="" altitude="193.80" heading="242.7" latitude="55.002450" author="" copyright="" nodeid="node42" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.307275" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Подход к баньке. Точка 1" url="{node37}" pan="-121.5" skinid="ht_node" target="" distance="28.1532" id="to_bathHouseslant" tilt="-6.62" description=""/>
+      <hotspot title="Между людской и нижним парком" url="{node4}" pan="-19.36" skinid="ht_node" target="" distance="11.7929" id="to_humanPark" tilt="-5.42" description=""/>
+      <hotspot title="У амбара" url="{node20}" pan="-294.09" skinid="ht_node" target="" distance="106.568" id="to_barn" tilt="-2.69" description=""/>
+      <hotspot title="Рахвилка. У господской кухни" url="{node40}" pan="-186.84" skinid="ht_node" target="" distance="73.7719" id="to_kitchen" tilt="-1.26" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node40">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="98">
+      <start fov="100" pan="-134.161" tilt="-4.69366" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="У кухни" datetime="03.04.2025 12:19" info="" tags="" altitude="181.98" heading="98" latitude="55.002764" author="" copyright="" nodeid="node40" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.308294" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="У господской кухни" url="{node43}" pan="-306.99" skinid="ht_node" target="" distance="1.6382" id="to_kitchenWel" tilt="-1.57" description=""/>
+      <hotspot title="Подход к баньке. Точка 2" url="{node38}" pan="-167.63" skinid="ht_node" target="" distance="50.943" id="to_bathHousestail2" tilt="-3.98" description=""/>
+      <hotspot title="Развилка - конюшня и нижний парк" url="{node42}" pan="-103.34" skinid="ht_node" target="" distance="73.7719" id="to_barnBathHouse" tilt="-4.15" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node37">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="262.1">
+      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="К баньке. Точка 1" datetime="03.04.2025 15:05" info="" tags="" altitude="193.78" heading="262.1" latitude="55.002697" author="" copyright="" nodeid="node37" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.307372" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Развилка - конюшня и нижний парк" url="{node42}" pan="-293.52" skinid="ht_node" target="" distance="28.1532" id="to_barnBathHouse" tilt="-6.31" description=""/>
+      <hotspot title="Вход в баньку" url="{node15}" pan="-67.02" skinid="ht_node" target="" distance="9.18019" id="to_bathHouse" tilt="-6.18" description=""/>
+      <hotspot title="Подход к баньке. Точка 2" url="{node38}" pan="-108.22" skinid="ht_node" target="" distance="10.5747" id="to_bathHousePond" tilt="-3.68" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="359.3">
+      <start fov="121.673" pan="108.616" tilt="-7.62678" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Вход в баньку" datetime="03.04.2025 15:08" info="" tags="" altitude="194.42" heading="359.3" latitude="55.002636" author="" copyright="" nodeid="node15" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.307469" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Подход к баньке. Точка 1" url="{node37}" pan="-117" skinid="ht_node" target="" distance="9.18019" id="to_bathHouseslant1" tilt="1.08" description=""/>
+      <hotspot title="Подход к баньке. Точка 2" url="{node38}" pan="-21.46" skinid="ht_node" target="" distance="3.70692" id="to_bathHouseskant2" tilt="-1.41" description=""/>
+      <hotspot title="Банька" url="" pan="-249.24" id="Point01" skinid="ht_node" tilt="-6.27" description="" target=""/>
+      <hotspot title="" url="images/bathhouse_descr.jpg" pan="-333.23" id="Point02" skinid="ht_image" tilt="-3.9" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node38">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="281.4">
+      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="К баньке. Точка 2" datetime="03.04.2025 15:07" info="" tags="" altitude="196.01" heading="281.4" latitude="55.002653" author="" copyright="" nodeid="node38" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.307519" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Подход к баньке. Точка 1" url="{node37}" pan="-266.49" skinid="ht_node" target="" distance="10.5747" id="to_bathHouseslant1" tilt="-2.89" description=""/>
+      <hotspot title="Вход в баньку" url="{node15}" pan="-319.86" skinid="ht_node" target="" distance="3.70692" id="to_bathHouse" tilt="-6.85" description=""/>
+      <hotspot title="Развилка. У господской кухни" url="{node40}" pan="-214.14" skinid="ht_node" target="" distance="50.943" id="to_kitchen" tilt="-0.47" description=""/>
+      <hotspot title="" url="images/bathhouse_descr.jpg" pan="-341.23" id="Point01" skinid="ht_image" tilt="-3.32" description="" target=""/>
+      <hotspot title="Каскад прудов. Вход на смотровую площадку" url="{node25}" pan="-79.85" skinid="ht_node" target="" distance="50.0964" id="Point02" tilt="-4.04" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node25">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="14.1">
+      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Вход на площадку" datetime="03.04.2025 15:11" info="" tags="" altitude="196.95" heading="14.1" latitude="55.003103" author="" copyright="" nodeid="node25" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.307481" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Каскад прудов. Смотровая площадка" url="{node36}" pan="-18.71" skinid="ht_node" target="" distance="27.9025" id="to_observ" tilt="-7.92" description=""/>
+      <hotspot title="Подход к баньке. Точка 2" url="{node38}" pan="-119.24" skinid="ht_node" target="" distance="50.0964" id="Point01" tilt="-2.62" description=""/>
+      <hotspot title="Каскад прудов. Между беседкой и смотровой площадкой" url="{node32}" pan="-295.09" skinid="ht_node" target="" distance="21.3043" id="Point02" tilt="-3.34" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node36">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="342.4">
+      <start fov="121.673" pan="-93.6946" tilt="-4.14546" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Смотровая площадка" datetime="03.04.2025 15:12" info="" tags="" altitude="196.74" heading="342.4" latitude="55.002869" author="" copyright="" nodeid="node36" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.307639" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Каскад прудов. Вход на смотровую площадку" url="{node25}" pan="-260.71" skinid="ht_node" target="" distance="27.9025" id="to_obserbWel" tilt="-8.33" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node32">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="290.7">
+      <start fov="121.673" pan="-168.068" tilt="-10.7158" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Каскад прудов" datetime="03.04.2025 15:13" info="" tags="" altitude="198.07" heading="290.7" latitude="55.003158" author="" copyright="" nodeid="node32" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.307161" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Каскад прудов. Вход на смотровую площадку" url="{node25}" pan="-245.62" skinid="ht_node" target="" distance="21.3043" id="to_observWel" tilt="-3.77" description=""/>
+      <hotspot title="Каскад прудов. У беседки" url="{node12}" pan="-74.04" skinid="ht_node" target="" distance="14.7419" id="to_pound" tilt="-3.99" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="141">
+      <start fov="121.673" pan="57.7087" tilt="-2.5092" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Каскад прудов" datetime="03.04.2025 15:14" info="" tags="" altitude="197.44" heading="141" latitude="55.003239" author="" copyright="" nodeid="node12" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.307344" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Каскад прудов. Между беседкой и смотровой площадкой" url="{node32}" pan="-7.23" skinid="ht_node" target="" distance="14.7419" id="to_observAlcove" tilt="-4.77" description=""/>
+      <hotspot title="Вход в беседку" url="{node16}" pan="-217.84" skinid="ht_node" target="" distance="33.0495" id="to_acloveWel" tilt="-4.12" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="233.9">
+      <start fov="121.673" pan="-92.5943" tilt="-3.13117" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Вход в беседку" datetime="03.04.2025 15:15" info="" tags="" altitude="199.26" heading="233.9" latitude="55.003536" author="" copyright="" nodeid="node16" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.307364" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Беседка" url="{node11}" pan="-84.95" skinid="ht_node" target="" distance="12.0295" id="to_aclove" tilt="-7.16" description=""/>
+      <hotspot title="Ближе к беседке" url="{node12}" pan="-341.77" skinid="ht_node" target="" distance="33.0495" id="to_pound" tilt="-6.96" description=""/>
+      <hotspot title="Развилка - аллея и беседка" url="{node41}" pan="-168.69" skinid="ht_node" target="" distance="12.0295" id="to_alcoveAlley" tilt="-3.59" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node41">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node41/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="262">
+      <start fov="121.673" pan="109.157" tilt="1.78811" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="У ветлы" datetime="03.04.2025 15:16" info="" tags="" altitude="198.37" heading="262" latitude="55.003428" author="" copyright="" nodeid="node41" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.307353" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Вход в беседку" url="{node16}" pan="-325.82" skinid="ht_node" target="" distance="12.0295" id="to_acloveWel" tilt="-5.26" description=""/>
+      <hotspot title="У ветлы" url="{node39}" pan="-212.84" skinid="ht_node" target="" distance="28.8158" id="to_alleyFork" tilt="-8.95" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="275.8">
+      <start fov="121.673" pan="118.681" tilt="-7.60034" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Беседка" datetime="03.04.2025 15:16" info="" tags="" altitude="198.37" heading="275.8" latitude="55.003428" author="" copyright="" nodeid="node11" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.307353" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Вход в беседку" url="{node16}" pan="-217.7" skinid="ht_node" target="" distance="12.0295" id="to_alcoveWel" tilt="-8.99" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node39">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="63.8">
+      <start fov="121.673" pan="-34.2375" tilt="0.269805" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="У ветлы" datetime="03.04.2025 15:17" info="" tags="" altitude="200.84" heading="63.8" latitude="55.003525" author="" copyright="" nodeid="node39" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.307772" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Развилка - аллея и беседка" url="{node41}" pan="-172.56" skinid="ht_node" target="" distance="28.8158" id="to_alleyAlcove" tilt="-5.76" description=""/>
+      <hotspot title="Липовая аллея. Точка 1" url="{node6}" pan="-355.44" id="to_alley1" skinid="ht_node" tilt="-2.4" description="" target=""/>
+      <hotspot title="Дорога к зеленому кабинету. Точка 1" url="{node7}" pan="-27.6" skinid="ht_node" target="" distance="12.1411" id="to_alley1-1" tilt="-4.76" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="246.4">
+      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Липовая аллея" datetime="03.04.2025 15:18" info="" tags="" altitude="200.84" heading="246.4" latitude="55.003525" author="" copyright="" nodeid="node6" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.307772" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="У ветлы" url="{node39}" pan="-39.97" id="to_alleyFork" skinid="ht_node" tilt="-4.79" description="" target=""/>
+      <hotspot title="Липовая аллея. Точка 2" url="{node8}" pan="-222.39" skinid="ht_node" target="" distance="24.5409" id="to_alley2" tilt="-2.36" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="206.4">
+      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Липовая аллея" datetime="03.04.2025 15:19" info="" tags="" altitude="199.40" heading="206.4" latitude="55.003494" author="" copyright="" nodeid="node8" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.308153" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Липовая аллея. Точка 1" url="{node6}" pan="-68.61" skinid="ht_node" target="" distance="24.5409" id="to_alley1" tilt="-6.89" description=""/>
+      <hotspot title="Липовая аллея. Точка 3" url="{node45}" pan="-251" skinid="ht_node" target="" distance="41.0449" id="to_alley3" tilt="-2.3" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node45">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node45/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="281.1">
+      <start fov="121.673" pan="127.491" tilt="-0.345476" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Липовая аллея" datetime="03.04.2025 15:20" info="" tags="" altitude="198.11" heading="281.1" latitude="55.003378" author="" copyright="" nodeid="node45" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.308764" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Липовая аллея. Точка 2" url="{node8}" pan="-20.11" skinid="ht_node" target="" distance="41.0449" id="to_alley2" tilt="-4.59" description=""/>
+      <hotspot title="Вход в вотчиную контору" url="{node22}" pan="-197.77" skinid="ht_node" target="" distance="33.1031" id="to_potrimonialWel" tilt="-2.82" description=""/>
+      <hotspot title="Зеленый кабинет. Точка 1" url="" pan="-326.95" id="Point01" skinid="ht_url" tilt="-5" description="" target="_blank"/>
+      <hotspot title="У зеленого кабинета" url="{node24}" pan="-282.87" skinid="ht_node" target="" distance="48.5433" id="Point02" tilt="-4.08" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node22">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="184.7">
+      <start fov="121.673" pan="-135.036" tilt="-2.20443" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Вход в контору" datetime="03.04.2025 15:38" info="" tags="" altitude="196.50" heading="184.7" latitude="55.003383" author="" copyright="" nodeid="node22" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.309283" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Липовая аллея. Точка 3" url="{node45}" pan="-94.05" skinid="ht_node" target="" distance="33.1031" id="to_alley3" tilt="-4.61" description=""/>
+      <hotspot title="Вотчинная контора" url="" pan="-180.52" id="to_patrimonial" skinid="ht_node" tilt="7.1" description="" target=""/>
+      <hotspot title="" url="images/office_descr.jpg" pan="-116.13" id="Point01" skinid="ht_image" tilt="-1.82" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="324.3">
+      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Дорога к кабинету" datetime="03.04.2025 15:26" info="" tags="" altitude="199.85" heading="324.3" latitude="55.003417" author="" copyright="" nodeid="node7" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.307800" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="У ветлы" url="{node39}" pan="-342.13" skinid="ht_node" target="" distance="12.1411" id="to_alleyFork" tilt="-2.86" description=""/>
+      <hotspot title="Дорога к зеленову кабинету. Точка 2" url="{node9}" pan="-152.66" skinid="ht_node" target="" distance="8.02033" id="to_alley2-1" tilt="-3.38" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="310.7">
+      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Дорога к кабинету" datetime="03.04.2025 15:25" info="" tags="" altitude="198.84" heading="310.7" latitude="55.003353" author="" copyright="" nodeid="node9" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.307858" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Дорога к зеленому кабинету. Точка 1" url="{node7}" pan="-353.84" skinid="ht_node" target="" distance="8.02033" id="to_alley1-1" tilt="-6.31" description=""/>
+      <hotspot title="Рабочий кабинет. Точка 2" url="{node29}" pan="-175.9" skinid="ht_node" target="" distance="52.9968" id="to_circle" tilt="-4.44" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node28">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="317.6">
+      <start fov="121.673" pan="68.5418" tilt="-8.74634" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Зеленый кабинет" datetime="03.04.2025 15:23" info="" tags="" altitude="197.64" heading="317.6" latitude="55.003353" author="" copyright="" nodeid="node28" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.308697" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Зеленый кабинет. Точка 3" url="{node30}" pan="-237.76" skinid="ht_node" target="" distance="2.28481" id="to_circle3" tilt="-12.21" description=""/>
+      <hotspot title="Зеленый кабинет. Точка 2" url="{node29}" pan="-320.04" skinid="ht_node" target="" distance="0.609566" id="to_circle2" tilt="-6.38" description=""/>
+      <hotspot title="Липовая аллея. Точка 3" url="{node45}" pan="-98.4" skinid="ht_node" target="" distance="5.09752" id="Point01" tilt="-0.56" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node29">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="3.5">
+      <start fov="121.673" pan="-96.0146" tilt="-12.8141" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Зеленый кабинет" datetime="03.04.2025 15:24" info="" tags="" altitude="198.26" heading="3.5" latitude="55.003356" author="" copyright="" nodeid="node29" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.308689" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Зеленый кабинет. Точка 1" url="{node28}" pan="-72.36" skinid="ht_node" target="" distance="0.609566" id="to_circle1" tilt="-4.4" description=""/>
+      <hotspot title="Зеленый кабинет. Точка 3" url="{node30}" pan="-113.26" skinid="ht_node" target="" distance="1.6885" id="to_circle3" tilt="-5.76" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node30">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="109">
+      <start fov="121.673" pan="156.408" tilt="-7.51519" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Зеленый кабинет" datetime="03.04.2025 15:32" info="" tags="" altitude="198.37" heading="109" latitude="55.003361" author="" copyright="" nodeid="node30" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.308664" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Зеленый кабинет. Точка 2" url="{node29}" pan="-168.42" skinid="ht_node" target="" distance="1.6885" id="to_circle2" tilt="-4.92" description=""/>
+      <hotspot title="Зеленый кабинет. Точка 1" url="{node28}" pan="-241.11" skinid="ht_node" target="" distance="2.28481" id="to_circle1" tilt="-6.29" description=""/>
+      <hotspot title="У зеленого кабинета" url="" pan="-328.57" id="Point01" skinid="ht_node" tilt="-1.83" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="170.8">
+      <start fov="121.673" pan="-43.0115" tilt="0.59774" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="У зеленого кабинета" datetime="03.04.2025 15:33" info="" tags="" altitude="194.74" heading="170.8" latitude="55.002950" author="" copyright="" nodeid="node24" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.308614" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Зеленый кабинет. Точка 3" url="{node30}" pan="-96.83" skinid="ht_node" target="" distance="45.8122" id="to_circle3" tilt="-4.54" description=""/>
+      <hotspot title="Липовая аллея. Точка 3" url="{node45}" pan="-176.2" skinid="ht_node" target="" distance="48.5433" id="to_alley3" tilt="-1.6" description=""/>
+      <hotspot title="Мостик" url="{node34}" pan="-353.73" skinid="ht_node" target="" distance="31.1178" id="to_bridge" tilt="-0.86" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node34">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="296">
+      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Мостик" datetime="03.04.2025 15:35" info="" tags="" altitude="195.77" heading="296" latitude="55.002672" author="" copyright="" nodeid="node34" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.308558" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="У зеленого кабинета" url="{node24}" pan="-81.02" skinid="ht_node" target="" distance="31.1178" id="to_cabinet" tilt="-6.74" description=""/>
+      <hotspot title="У мостика" url="{node35}" pan="-261.08" skinid="ht_node" target="" distance="15.7415" id="to_bridgeWel" tilt="-0.86" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node46">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node46/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="23.8">
+      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Временные постройки" datetime="03.04.2025 14:54" info="" tags="" altitude="195.19" heading="23.8" latitude="55.002131" author="" copyright="" nodeid="node46" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.308094" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Вход в усадьбу" url="{node33}" pan="-306.52" skinid="ht_node" target="" distance="25.9367" id="to_timeWel" tilt="-0.54" description=""/>
+      <hotspot title="Временные выставки" url="{node47}" pan="-126.37" skinid="ht_node" target="" distance="5.5893" id="to_timeShow" tilt="-6.11" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node47">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node47/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="295.6">
+      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Временные постройки" datetime="03.04.2025 14:47" info="" tags="" altitude="193.66" heading="295.6" latitude="55.002081" author="" copyright="" nodeid="node47" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.308103" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Дом Успенского" url="{node46}" pan="-73.06" skinid="ht_node" target="" distance="5.5893" id="to_timeHouse1" tilt="-6.85" description=""/>
+      <hotspot title="Дом Фиалковского" url="{node26}" pan="-254.67" skinid="ht_node" target="" distance="35.067" id="to_timeHouse2" tilt="-6.3" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node26">
+    <input levelbias="0.400" height="1680" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" width="1680" levelingroll="0" overlap="1" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="3.9">
+      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fov="140" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata title="Вход в сказки" datetime="03.04.2025 14:50" info="" tags="" altitude="193.04" heading="3.9" latitude="55.001775" author="" copyright="" nodeid="node26" description="УЛИЧНОЕ ОКРУЖЕНИЕ" comment="" source="" longitude="45.308236" customnodeid=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" borderradius="1" height="20" wordwrap="1" textcolor="0x000000" border="1" width="180" bordercolor="0x000000" enabled="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot title="Пушкиана. От сказки к сказке" url="" pan="-242.36" id="to_tales" skinid="ht_node" tilt="5.48" description="" target=""/>
+      <hotspot title="Временные выставки" url="{node47}" pan="-331.84" skinid="ht_node" target="" distance="35.067" id="to_timeShow" tilt="-6.4" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" delay="none" blendtime="1" softedge="0" zoomafterinfov="140" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" zoomfov="40" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata title="" author="" tags="" copyright="" description="" comment=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
