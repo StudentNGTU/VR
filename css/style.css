@@ -1,0 +1,236 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: #000;
+}
+
+.container {
+    max-width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 15px;
+}
+
+.section {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/*.section:not(:last-child) {
+    border-bottom: 1px solid #000;
+}*/
+
+.list-reset {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.header {
+    border-radius: 0 0 8px 8px;
+    background-color: #000;
+    box-shadow: 0px 0px 10px 8px rgba(0, 0, 0, 0.21);
+}
+
+.header__container {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.header__wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header__logo {
+    margin-bottom: 32px;
+    width: 400px;
+    height: auto;
+}
+
+.header__title {
+    margin: 0;
+    padding: 0;
+    font-size: 24px;
+    color: rgb(226, 226, 226);
+}
+
+.tour_full__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 16px;
+}
+
+.full_tour {
+    display: block;
+    width: 100%;
+    height: 600px;
+    border-radius: 8px;
+}
+
+.full__wrapper {
+    display: block;
+    position: relative;
+    cursor: pointer;
+    border-radius: 8px;
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.21);
+    transition: all .3s ease-in-out;
+}
+
+.full__wrapper:hover {
+    scale: 1.03;
+    box-shadow: 3px 3px 20px rgba(255, 167, 3, 0.712);
+}
+
+.mask {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.mask {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, .5);
+    border-radius: 8px;
+    opacity: 0;
+    color: #fff;
+    font-size: 40px;
+    text-transform: uppercase;
+    transition: opacity .3s ease-in-out;
+}
+
+.mask:hover {
+    opacity: 1;
+}
+
+.tour_change__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cards {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 32px;
+}
+
+.house {
+    background-image: url('../image/house.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.horse {
+    background-image: url('../image/konushnya.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.bathhouse {
+    background-image: url('../image/bathhouse.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.kontora {
+    background-image: url('../image/kontora.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.museum {
+    background-image: url('../image/museum.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.street {
+    background-image: url('../image/street.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.card {
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    padding: 32px;
+    gap: 32px;
+    width: 300px;
+    height: 400px;
+    cursor: pointer;
+    border-radius: 8px;
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.21);
+    transition: all .3s ease-in-out;
+}
+
+.card:hover {
+    scale: 1.03;
+    box-shadow: 3px 3px 20px rgba(255, 167, 3, 0.712);
+}
+
+.loco__title {
+    margin: 0;
+    padding: 0;
+	color: #ffffff;
+    text-transform: uppercase;
+    text-shadow: 3px 3px 20px rgb(201, 201, 201);
+    position: relative;
+}
+
+.loco__title:after {
+	content: "";
+    display: block;
+    position: absolute;
+    right: 0;
+    bottom: -3px;
+    width: 0;
+    height: 2px;
+    background-color: rgb(83, 75, 0);
+    transition: width 0.5s;
+}
+
+.loco__title:hover:after {
+	content: "";
+    width: 100%;
+    display: block;
+    position: absolute;
+    left: 0;
+    bottom: -3px;
+    height: 2px;
+    background-color: rgba(247, 186, 56, 0.945);
+    transition: width 0.5s;
+}
+
+.icon-play {
+    width: 50px;
+    height: auto;
+}
+
+.footer {
+    height: 30px;
+    border-radius: 8px 8px 0 0;
+    background-color: #000;
+    box-shadow: 0px 0px 10px 8px rgba(0, 0, 0, 0.21);
+}

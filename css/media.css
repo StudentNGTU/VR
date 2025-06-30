@@ -1,0 +1,128 @@
+@media (max-width: 1190px) {
+    .card {
+        width: 250px;
+        text-align: center;
+    }
+}
+
+@media (max-width: 1040px) {
+    
+    .title {
+        text-align: center;
+    }
+
+    .card {
+        width: 200px;
+    }
+
+    .mask {
+        opacity: 1;
+        background: none;
+        justify-content: flex-end;
+    }
+}
+
+@media (max-width: 1000px) {
+    
+    .full_tour {
+        height: 500px;
+    }
+}
+
+@media (max-width: 900px) {
+    
+    .card {
+        width: 300px;
+    }
+
+    .mask {
+        font-size: 32px;
+        align-items: center;
+    }
+}
+
+@media (max-width: 790px) {
+
+    .cards {
+        justify-content: center;
+    }
+
+    .card {
+        width: 500px;
+    }
+
+    .mask {
+        font-size: 30px;
+    }
+
+}
+
+@media (max-width: 600px) {
+    
+    .full_tour {
+        height: 300px;
+    }
+
+    .card {
+        width: 350px;
+        height: 200px;
+    }
+
+    .mask {
+        font-size: 25px;
+    }
+}
+
+@media (max-width: 500px) {
+    
+    .full_tour {
+        height: 250px;
+    }
+
+    .title {
+        font-size: 20px;
+    }
+
+    .subtitle {
+        font-size: 18px;
+    }
+
+    .card {
+        width: 300px;
+        height: 150px;
+    }
+}
+
+@media (max-width: 400px) {
+
+    .header__logo {
+        margin-bottom: 32px;
+        width: 300px;
+        height: auto;
+    }
+    
+    .full_tour {
+        height: 200px;
+    }
+
+    .title {
+        font-size: 18px;
+    }
+
+    .subtitle {
+        font-size: 16px;
+    }
+
+    .card {
+        width: 250px;
+        height: 100px;
+    }
+    
+    .loco__title {
+        font-size: 15px;
+    }
+
+    .mask {
+        font-size: 15px;
+    }
+}
