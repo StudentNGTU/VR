@@ -1182,7 +1182,7 @@
       <hotspot pan="-83.05" tilt="-17.19" title="Сени. 1 точка" target="" url="{node46}" skinid="ht_node" distance="23.7268" id="to_bathhouse_main1" description=""/>
       <hotspot target="" url="images/canopy_firewood.jpg" pan="-195.68" skinid="ht_image" tilt="-30.22" id="Point01" title="" description=""/>
       <hotspot target="" url="images/canopy_barrel.jpg" pan="-144.52" skinid="ht_image" tilt="-35.68" id="Point02" title="" description=""/>
-      <hotspot target="" url="images/_.jpg" pan="-148.21" skinid="ht_image" tilt="-1.58" id="Point03" title="" description=""/>
+      <hotspot target="" url="images/canopy_poker.jpg" pan="-148.21" skinid="ht_image" tilt="-1.58" id="Point03" title="" description=""/>
       <hotspot target="" url="images/canopy_flashlight.jpg" pan="-147.79" skinid="ht_image" tilt="23.45" id="Point04" title="" description=""/>
       <hotspot target="" url="images/canopy_box.jpg" pan="-48.44" skinid="ht_image" tilt="-30.48" id="Point05" title="" description=""/>
     </hotspots>
