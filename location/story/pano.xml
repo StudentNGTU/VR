@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node23" appversion="7.1.9" hassounds="0" apprev="20995">
+  <panorama id="node23">
+    <input levelingroll="0" levelbias="0.400" overlap="1" height="1680" leveltilesize="510" levelbiashidpi="1.000" width="1680" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="97.9">
+      <start projection="4" pan="-129.137" fov="122.954" tilt="-17.2791"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata latitude="55.001692" customnodeid="" description="МУЗЕЙ СКАЗОК" comment="" title="От сказки к сказке" copyright="" info="" heading="97.9" source="" datetime="03.04.2025 14:36" longitude="45.308225" nodeid="node23" author="" tags="" altitude="193.72"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" backgroundalpha="1" bordercolor="0x000000" height="20" wordwrap="1" borderradius="1" borderalpha="1" textcolor="0x000000" width="180" background="1" backgroundcolor="0xffffff" textalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot title="На улицу" url="" target="" pan="-301.54" description="" id="to_street" tilt="1.51" skinid="ht_node"/>
+      <hotspot url="{node24}" target="" description="" title="Сказки Болдинской осени. Точка 1" id="to_fairyTales_2" tilt="-17.73" skinid="ht_node" distance="33.409" pan="-214.24"/>
+      <hotspot title="" url="images/Pushkiana_center.jpg" target="" pan="-126.06" description="" id="Point01" tilt="-0.0399997" skinid="ht_image"/>
+      <hotspot title="" url="images/Pushkiana_right.jpg" target="" pan="-163.47" description="" id="Point02" tilt="-16.86" skinid="ht_image"/>
+      <hotspot title="" url="images/Pushkiana_left_story.jpg" target="" pan="-101.99" description="" id="Point03" tilt="-0.11" skinid="ht_image"/>
+      <hotspot title="" url="images/Pushkiana_gold.jpg" target="" pan="-110.43" description="" id="Point04" tilt="-11.46" skinid="ht_image"/>
+      <hotspot title="" url="images/Pushkiana_left_bake.jpg" target="" pan="-92.56" description="" id="Point05" tilt="0.05" skinid="ht_image"/>
+      <hotspot title="" url="images/Pushkiana_left_ann.jpg" target="" pan="-68.77" description="" id="Point06" tilt="0.31" skinid="ht_image"/>
+      <hotspot title="" url="images/Pushkiana_plate1.jpg" target="" pan="-0.79" description="" id="Point07" tilt="15.67" skinid="ht_image"/>
+      <hotspot title="" url="images/Pushkiana_plate2.jpg" target="" pan="-12.14" description="" id="Point08" tilt="8.75" skinid="ht_image"/>
+      <hotspot title="" url="images/Pushkiana_izba.jpg" target="" pan="-334.15" description="" id="Point09" tilt="-7.51" skinid="ht_image"/>
+      <hotspot title="" url="images/Pushkiana_vase.jpg" target="" pan="-355.07" description="" id="Point10" tilt="-15.4" skinid="ht_image"/>
+      <hotspot title="Аннотация" url="" target="" pan="-272.62" description="     Этот музей открылся в 1998 году и стал первым в России музеем пушкинских сказок. Два деревянных дома рядом с мемориальной усадьбой. Восстановлены по фотографиям XIX века.&#xa;&#xa;     В прошлом здесь жили священники, служившие в церкви Успения, построенной в конце XVII века по воле деда поэта" id="Point11" tilt="-8.98" skinid="ht_info"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomfov="40" zoomin="0" type="crossdissolve" zoomspeed="2" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" softedge="0" zoomafterinfov="140" blendtime="1"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control contextvr="1" contextprojections="0" simulatemass="1" zoomcentercursor="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedmouse="0" dblclickfullscreen="0" lockedwheel="0" speedwheel="1" rubberband="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input levelingroll="0" levelbias="0.400" overlap="1" height="1680" leveltilesize="510" levelbiashidpi="1.000" width="1680" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="214.5">
+      <start projection="4" pan="-67.3801" fov="122.954" tilt="-10.5061"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata latitude="55.001986" customnodeid="" description="МУЗЕЙ СКАЗОК" comment="" title="Болдинская осень. Точка 1" copyright="" info="" heading="214.5" source="" datetime="03.04.2025 14:37" longitude="45.308117" nodeid="node24" author="" tags="" altitude="194.04"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" backgroundalpha="1" bordercolor="0x000000" height="20" wordwrap="1" borderradius="1" borderalpha="1" textcolor="0x000000" width="180" background="1" backgroundcolor="0xffffff" textalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node23}" target="" description="" title="Пушкиана. От сказки к сказке" id="to_fairyTales_1" tilt="-15.36" skinid="ht_node" distance="33.409" pan="-339.46"/>
+      <hotspot url="{node25}" target="" description="" title="&quot;Сказка о золотом петушке&quot;" id="to_fairyTales_3" tilt="-19.13" skinid="ht_node" distance="7.24758" pan="-149.64"/>
+      <hotspot url="{node27}" target="" description="" title="Сказки Болдинской осени. Точка 2" id="to_fairyTales_5" tilt="-18.51" skinid="ht_node" distance="14.5069" pan="-60.32"/>
+      <hotspot title="" url="images/autumn_ann.jpg" target="" pan="-95.1" description="" id="Point01" tilt="-2.06" skinid="ht_image"/>
+      <hotspot title="" url="images/autumn_spear.jpg" target="" pan="-85.99" description="" id="Point02" tilt="-2.17" skinid="ht_image"/>
+      <hotspot title="" url="images/autumn_pic.jpg" target="" pan="-11.7" description="" id="Point03" tilt="9.86" skinid="ht_image"/>
+      <hotspot title="" url="images/autumn_story.jpg" target="" pan="-34.43" description="" id="Point04" tilt="-1.53" skinid="ht_image"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomfov="40" zoomin="0" type="crossdissolve" zoomspeed="2" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" softedge="0" zoomafterinfov="140" blendtime="1"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control contextvr="1" contextprojections="0" simulatemass="1" zoomcentercursor="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedmouse="0" dblclickfullscreen="0" lockedwheel="0" speedwheel="1" rubberband="0"/>
+  </panorama>
+  <panorama id="node27">
+    <input levelingroll="0" levelbias="0.400" overlap="1" height="1680" leveltilesize="510" levelbiashidpi="1.000" width="1680" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="9">
+      <start projection="4" pan="173.544" fov="122.954" tilt="-7.73262"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata latitude="55.001858" customnodeid="" description="МУЗЕЙ СКАЗОК" comment="" title="Болдинская осень. Точка 2" copyright="" info="" heading="9" source="" datetime="03.04.2025 14:40" longitude="45.308161" nodeid="node27" author="" tags="" altitude="194.08"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" backgroundalpha="1" bordercolor="0x000000" height="20" wordwrap="1" borderradius="1" borderalpha="1" textcolor="0x000000" width="180" background="1" backgroundcolor="0xffffff" textalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node26}" target="" description="" title="&quot;Сказка о царе Салтане&quot;" id="to_fairyTales_4" tilt="-17.85" skinid="ht_node" distance="2.50456" pan="-310.55"/>
+      <hotspot url="{node24}" target="" description="" title="Сказки Болдинской осени. Точка 1" id="to_fairyTales_2" tilt="-20.03" skinid="ht_node" distance="14.5069" pan="-73.83"/>
+      <hotspot url="{node23}" target="" description="" title="Сказки_1" id="to_fairyTales_1" tilt="-14.88" skinid="ht_node" distance="18.9043" pan="-101.18"/>
+      <hotspot title="" url="images/autumn_story2.jpg" target="" pan="-201.87" description="" id="Point01" tilt="-6.1" skinid="ht_image"/>
+      <hotspot title="" url="images/autumn_story.jpg" target="" pan="-159.77" description="" id="Point02" tilt="-7.77" skinid="ht_image"/>
+      <hotspot title="" url="images/autumn_story_descr.jpg" target="" pan="-166.29" description="" id="Point03" tilt="-6.27" skinid="ht_image"/>
+      <hotspot title="" url="images/autumn_pic.jpg" target="" pan="-121.38" description="" id="Point04" tilt="11.07" skinid="ht_image"/>
+      <hotspot title="" url="images/autumn_pic2.jpg" target="" pan="-269.13" description="" id="Point05" tilt="13.76" skinid="ht_image"/>
+      <hotspot title="" url="images/autumn_story3.jpg" target="" pan="-355.34" description="" id="Point06" tilt="-16.22" skinid="ht_image"/>
+      <hotspot title="" url="images/autumn_story3_descr.jpg" target="" pan="-315.4" description="" id="Point07" tilt="-3.08" skinid="ht_image"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomfov="40" zoomin="0" type="crossdissolve" zoomspeed="2" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" softedge="0" zoomafterinfov="140" blendtime="1"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control contextvr="1" contextprojections="0" simulatemass="1" zoomcentercursor="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedmouse="0" dblclickfullscreen="0" lockedwheel="0" speedwheel="1" rubberband="0"/>
+  </panorama>
+  <panorama id="node25">
+    <input levelingroll="0" levelbias="0.400" overlap="1" height="1680" leveltilesize="510" levelbiashidpi="1.000" width="1680" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="285.7">
+      <start projection="4" pan="35.5977" fov="122.954" tilt="-11.2222"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata latitude="55.001953" customnodeid="" description="МУЗЕЙ СКАЗОК" comment="" title="&quot;Сказка о золотом петушке&quot;" copyright="" info="" heading="285.7" source="" datetime="03.04.2025 14:38" longitude="45.308019" nodeid="node25" author="" tags="" altitude="194.25"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" backgroundalpha="1" bordercolor="0x000000" height="20" wordwrap="1" borderradius="1" borderalpha="1" textcolor="0x000000" width="180" background="1" backgroundcolor="0xffffff" textalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node24}" target="" description="" title="Сказки Болдинской осени. Точка 1" id="to_fairyTales_2" tilt="-15.29" skinid="ht_node" distance="7.24758" pan="-268.64"/>
+      <hotspot url="{node26}" target="" description="" title="&quot;Сказка о царе Салтане&quot;" id="to_fairyTales_4" tilt="-17.4" skinid="ht_node" distance="11.711" pan="-3.83"/>
+      <hotspot title="" url="images/gold_story2.jpg" target="" pan="-282.89" description="" id="Point01" tilt="-0.85" skinid="ht_image"/>
+      <hotspot title="" url="images/gold_story2_descr.jpg" target="" pan="-274.97" description="" id="Point02" tilt="-0.88" skinid="ht_image"/>
+      <hotspot title="" url="images/gold_story_descr.jpg" target="" pan="-291.69" description="" id="Point03" tilt="-1.75" skinid="ht_image"/>
+      <hotspot title="" url="images/gold_story.jpg" target="" pan="-309.1" description="" id="Point04" tilt="-1.39" skinid="ht_image"/>
+      <hotspot title="" url="images/gold_story3.jpg" target="" pan="-141.81" description="" id="Point05" tilt="-0.34" skinid="ht_image"/>
+      <hotspot title="" url="images/gold_story3_descr.jpg" target="" pan="-30.06" description="" id="Point06" tilt="-1.51" skinid="ht_image"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomfov="40" zoomin="0" type="crossdissolve" zoomspeed="2" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" softedge="0" zoomafterinfov="140" blendtime="1"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control contextvr="1" contextprojections="0" simulatemass="1" zoomcentercursor="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedmouse="0" dblclickfullscreen="0" lockedwheel="0" speedwheel="1" rubberband="0"/>
+  </panorama>
+  <panorama id="node26">
+    <input levelingroll="0" levelbias="0.400" overlap="1" height="1680" leveltilesize="510" levelbiashidpi="1.000" width="1680" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level preload="0" width="1680" height="1680" predecode="0"/>
+      <level preload="0" width="840" height="840" predecode="0"/>
+      <level preload="1" width="420" height="420" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="279.1">
+      <start projection="4" pan="104.611" fov="122.954" tilt="-6.98924"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata latitude="55.001867" customnodeid="" description="МУЗЕЙ СКАЗОК" comment="" title="&quot;Сказка о царе Салтане&quot;" copyright="" info="" heading="279.1" source="" datetime="03.04.2025 14:39" longitude="45.308125" nodeid="node26" author="" tags="" altitude="193.98"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" backgroundalpha="1" bordercolor="0x000000" height="20" wordwrap="1" borderradius="1" borderalpha="1" textcolor="0x000000" width="180" background="1" backgroundcolor="0xffffff" textalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node25}" target="" description="" title="&quot;Сказка о золотом петушке&quot;" id="to_fairyTales_3" tilt="-20.02" skinid="ht_node" distance="11.711" pan="-198.21"/>
+      <hotspot url="{node27}" target="" description="" title="Сказки Болдинской осени. Точка 2" id="to_fairyTales_5" tilt="-18.87" skinid="ht_node" distance="2.50456" pan="-290.81"/>
+      <hotspot title="" url="images/salt_pic.jpg" target="" pan="-359.09" description="" id="Point01" tilt="21.41" skinid="ht_image"/>
+      <hotspot title="" url="images/salt_figure.jpg" target="" pan="-52.07" description="" id="Point02" tilt="8.81" skinid="ht_image"/>
+      <hotspot title="" url="images/salt_ann.jpg" target="" pan="-249.43" description="" id="Point03" tilt="1.45" skinid="ht_image"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomfov="40" zoomin="0" type="crossdissolve" zoomspeed="2" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" softedge="0" zoomafterinfov="140" blendtime="1"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control contextvr="1" contextprojections="0" simulatemass="1" zoomcentercursor="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedmouse="0" dblclickfullscreen="0" lockedwheel="0" speedwheel="1" rubberband="0"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" description="" copyright="" title="" author="" comment=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
